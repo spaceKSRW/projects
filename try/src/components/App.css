@@ -1,0 +1,32 @@
+
+.App{
+   background-color: #282c34;
+   text-align: center; 
+   min-height: 100vh;
+   color:white;
+}
+.header{
+background-color:rgb(27, 8, 55);
+padding:8px ;
+}
+.main{
+   display:flex;
+
+   align-items:center;
+   flex-wrap: wrap;
+   align-items:center;
+   justify-content: space-around;
+}
+.btn{
+   background-color: chartreuse;
+   padding: 5px;
+
+
+  
+  
+}
+.heading{
+   color:black;
+   font-size:100px
+
+}
